@@ -8,6 +8,7 @@
     "bitcoin",
     "litecoin",
     "dogecoin",
+    "goldcoin",
     "currency",
     "cryptocurrency",
     "address",
@@ -24,7 +25,7 @@
     "standard": "4.x"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coinstring",
+    "url": "https://github.com/panchadijaya/coinstring",
     "type": "git"
   },
   "main": "./lib/coinstring.js",
